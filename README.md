@@ -1,5 +1,5 @@
 # My-SQLite3-DB-Creator-Browser
-Created using Python 3.12.0
+Created using Python 3.12.0.
 SQLite3 Database Creator/Browser Program For Windows  (English/Spanish)
 All Translations are in code and doesn't rely on a Translation import.
 The Language can be changed simply by restarting the program after the selection.
